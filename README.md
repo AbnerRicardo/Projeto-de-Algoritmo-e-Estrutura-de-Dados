@@ -6,12 +6,12 @@
 - Trabalho em equipe
 
 ## Tecnologias Utilizadas:
-**Linguagem:** C
-**IDE:** CodeBlocks / DevC++
+- **Linguagem:** C
+- **IDE:** CodeBlocks / DevC++
 
-##Status:
+## Status:
 Em desenvolvimento.
 
-##Equipe:
-**Abner** - [@AbnerRicardo](https://github.com/AbnerRicardo)
-**Douglas** - []()
+## Equipe:
+- **Abner** - [@AbnerRicardo](https://github.com/AbnerRicardo)
+- **Douglas** - A definir
