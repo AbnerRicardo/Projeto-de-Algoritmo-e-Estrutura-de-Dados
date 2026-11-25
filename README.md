@@ -14,4 +14,4 @@ Em desenvolvimento.
 
 ## Equipe:
 - **Abner** - [@AbnerRicardo](https://github.com/AbnerRicardo)
-- **Douglas** - A definir
+- **Douglas** -[@Douglas Ferreira](https://github.com/k4rrins)
